@@ -3,7 +3,7 @@
 ## 从安全的角度完善现有的软件开发流程
 
 ### View
-Software development process should also produce the standand behaviors specifications of the target sofeware, which can be used to check the abnormal behaviors or malware behaviors.
+Software development process should also produce the standard behaviors specifications of the target software, which can be used to check the abnormal behaviors or malware behaviors.
 
 ### 观点
 1、软件的生产过程除了应该产出源码、程序、文档等传统形式的产出之外，还应该包含安全方面的产出，比如：标准行为规范。
